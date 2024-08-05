@@ -1,6 +1,3 @@
-Here’s a README template for your diabetes prediction project:
-
----
 
 # Diabetes Prediction Project
 
